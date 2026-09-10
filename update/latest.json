@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0",
-  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.0-win-x64.zip",
-  "sha256": "0E085D8C7B005BB80738B86719DD14820826A4EFFAAD97BB46A26B4182AEBC2B",
-  "size": 88869699,
-  "releaseNotes": "首个正式版本"
+  "version": "1.0.1",
+  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.1-win-x64.zip",
+  "sha256": "17AF7DA2FD763DE430E809FC7D4916A1DD4FB00CFBFAACE414D2141C91E01106",
+  "size": 82356031,
+  "releaseNotes": "修复图片切换被旧解码任务阻塞，提升大图与 PSD 切换稳定性。"
 }
