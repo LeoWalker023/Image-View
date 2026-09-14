@@ -1,7 +1,7 @@
 {
-  "version": "1.0.2",
-  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.2-win-x64.zip",
-  "sha256": "CAAF43E82F1BACCED6D9EDF4304EE232D1550C3FF7053DF3F54FF143F8A49D50",
-  "size": 82356536,
-  "releaseNotes": "修复大目录连续翻图后的导航失效，以及最后一张图片处缩略图无法滚动和点击切换的问题。"
+  "version": "1.0.3",
+  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.3-win-x64.zip",
+  "sha256": "79C4F1FE840F28419A72824362287AF1353C223AF40C969817E33FEC1EB37440",
+  "size": 82372635,
+  "releaseNotes": "新增自定义快捷键与滚轮组合键、外部打开图片时窗口置前及文件夹首尾提示；修复快捷键设置窗口崩溃和深色主题显示问题。"
 }
