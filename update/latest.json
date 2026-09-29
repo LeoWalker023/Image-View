@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.3-win-x64.zip",
-  "sha256": "79C4F1FE840F28419A72824362287AF1353C223AF40C969817E33FEC1EB37440",
-  "size": 82372635,
-  "releaseNotes": "新增自定义快捷键与滚轮组合键、外部打开图片时窗口置前及文件夹首尾提示；修复快捷键设置窗口崩溃和深色主题显示问题。"
+  "version": "1.0.4",
+  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.4-win-x64.zip",
+  "sha256": "373752E3701D5D929CEC48D6DC61B502B5CD2840FBDB25C1BA2E5137CB6CE47E",
+  "size": 82373893,
+  "releaseNotes": "优化底部缩略图加载与相邻图片预取，提升大图预览清晰度；新增上一张/下一张按钮，修复切换图片时选中缩略图始终停留在左侧的问题。"
 }
