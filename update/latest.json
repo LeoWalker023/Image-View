@@ -1,7 +1,7 @@
 {
-  "version": "1.0.5",
-  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.5-win-x64.zip",
-  "sha256": "EC44306DDE1812160C998788B66C41286E253232F6805C7D7E23A114B76CFFE7",
-  "size": 82378673,
-  "releaseNotes": "优化底部缩略图加载与相邻图片预取，提升大图预览清晰度；新增上一张/下一张按钮；修复切换图片时选中缩略图始终停留在左侧的问题；预览顺序跟随资源管理器当前排序。"
+  "version": "1.0.6",
+  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.6-win-x64.zip",
+  "sha256": "09166D3908F897137570697B045BA3E9ABDC2C4C369C65A767161A442B098EB5",
+  "size": 82379581,
+  "releaseNotes": "修复 PSD/PSB 拖拽行为：拖到桌面或文件夹时复制完整源文件，拖到 Photoshop 时作为独立文档打开并保留图层；带序号的拖拽副本保留源文件格式。"
 }
