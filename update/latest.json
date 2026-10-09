@@ -1,7 +1,7 @@
 {
-  "version": "1.0.4",
-  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.4-win-x64.zip",
-  "sha256": "373752E3701D5D929CEC48D6DC61B502B5CD2840FBDB25C1BA2E5137CB6CE47E",
-  "size": 82373893,
-  "releaseNotes": "优化底部缩略图加载与相邻图片预取，提升大图预览清晰度；新增上一张/下一张按钮，修复切换图片时选中缩略图始终停留在左侧的问题。"
+  "version": "1.0.5",
+  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.5-win-x64.zip",
+  "sha256": "EC44306DDE1812160C998788B66C41286E253232F6805C7D7E23A114B76CFFE7",
+  "size": 82378673,
+  "releaseNotes": "优化底部缩略图加载与相邻图片预取，提升大图预览清晰度；新增上一张/下一张按钮；修复切换图片时选中缩略图始终停留在左侧的问题；预览顺序跟随资源管理器当前排序。"
 }
