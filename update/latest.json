@@ -1,7 +1,7 @@
 {
-  "version": "1.0.6",
-  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.6-win-x64.zip",
-  "sha256": "09166D3908F897137570697B045BA3E9ABDC2C4C369C65A767161A442B098EB5",
-  "size": 82379581,
-  "releaseNotes": "修复 PSD/PSB 拖拽行为：拖到桌面或文件夹时复制完整源文件，拖到 Photoshop 时作为独立文档打开并保留图层；带序号的拖拽副本保留源文件格式。"
+  "version": "1.0.7",
+  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.7-win-x64.zip",
+  "sha256": "B8470182E08411361B4ACC05BAE6EB192611F95FC5AEAE691033641D4F315829",
+  "size": 82531323,
+  "releaseNotes": "新增 TGA 格式支持：打开、预览、应用内缩略图、同目录浏览、Windows 打开方式及格式转换，支持透明度和 RLE 压缩；修复 GIF 仅显示静态首帧的问题，按原始帧时长和循环次数播放，支持透明及局部帧合成、暂停/继续和播放结束后重播，切换图片时释放旧动画。"
 }
