@@ -1,7 +1,7 @@
 {
-  "version": "1.0.7",
-  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.7-win-x64.zip",
-  "sha256": "B8470182E08411361B4ACC05BAE6EB192611F95FC5AEAE691033641D4F315829",
-  "size": 82531323,
-  "releaseNotes": "新增 TGA 格式支持：打开、预览、应用内缩略图、同目录浏览、Windows 打开方式及格式转换，支持透明度和 RLE 压缩；修复 GIF 仅显示静态首帧的问题，按原始帧时长和循环次数播放，支持透明及局部帧合成、暂停/继续和播放结束后重播，切换图片时释放旧动画。"
+  "version": "1.0.8",
+  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.8-win-x64.zip",
+  "sha256": "DA7475454E9A8C0A839673C34F73277805E612AF2C41EEA2FF0EB6A8A1C7BAAF",
+  "size": 82533469,
+  "releaseNotes": "修复将 Image View 设为默认打开方式后，图片文件类型统一显示为软件名称的问题；JPEG、PNG、BMP、GIF、WebP、TIFF、TGA、PSD、PSB、HEIC、HEIF 按格式分别登记类型名称，清除旧版错误类型描述并保留双击打开命令，不主动改写用户选择的默认应用。"
 }
