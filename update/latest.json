@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
-  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.8-win-x64.zip",
-  "sha256": "DA7475454E9A8C0A839673C34F73277805E612AF2C41EEA2FF0EB6A8A1C7BAAF",
-  "size": 82533469,
-  "releaseNotes": "修复将 Image View 设为默认打开方式后，图片文件类型统一显示为软件名称的问题；JPEG、PNG、BMP、GIF、WebP、TIFF、TGA、PSD、PSB、HEIC、HEIF 按格式分别登记类型名称，清除旧版错误类型描述并保留双击打开命令，不主动改写用户选择的默认应用。"
+  "version": "1.0.9",
+  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.9-win-x64.zip",
+  "sha256": "3CD2C8E297339B55297F9A13D58B92C22A9D6FF9C7C2336138891E96D0EE2DA0",
+  "size": 82536654,
+  "releaseNotes": "新增放大时按需加载高清细节，在安全范围内加载到原图；修正100%像素显示和EXIF方向，提升清晰度时保留缩放、位置和旋转；修复低清缓存被误当作原图的问题，改进TGA、WebP、TIFF、BMP放大加载及PSD/PSB原图读取。超过4000万解码像素或最长边16384时保留受限预览并提示安全上限。"
 }
