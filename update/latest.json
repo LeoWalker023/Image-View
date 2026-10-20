@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
-  "downloadUrl": "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.0.9-win-x64.zip",
-  "sha256": "3CD2C8E297339B55297F9A13D58B92C22A9D6FF9C7C2336138891E96D0EE2DA0",
-  "size": 82536654,
-  "releaseNotes": "新增放大时按需加载高清细节，在安全范围内加载到原图；修正100%像素显示和EXIF方向，提升清晰度时保留缩放、位置和旋转；修复低清缓存被误当作原图的问题，改进TGA、WebP、TIFF、BMP放大加载及PSD/PSB原图读取。超过4000万解码像素或最长边16384时保留受限预览并提示安全上限。"
+    "version":  "1.1.0",
+    "downloadUrl":  "https://github.com/LeoWalker023/Image-View/releases/latest/download/ImageView-v1.1.0-win-x64.zip",
+    "sha256":  "63C07CD8B388AF5086D5ED47C10D880248324487D71A03B44E03A8BBAE9E01EE",
+    "size":  82548544,
+    "releaseNotes":  "新增超大静态图分块加载：先显示整图预览，放大、平移、滚动和旋转时按视野补充高清图块，100%及以上使用原始像素；当前源共享一次高清合成图解码并复用有界缓存，切图取消旧请求；正确处理透明区域，底栏显示原图尺寸。整图位图仍限制为4000万像素、最长边16384，分块输入上限为5.12亿像素、最长边131072；首次高清仍需解码，格式或资源限制导致失败时保留预览。"
 }
